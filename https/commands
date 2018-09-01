@@ -1,0 +1,10 @@
+//Command to create ssl certs
+openssl req -newkey rsa:2048 -new -nodes -x509 -days 3650 -keyout key.pem -out cert.pem
+
+Country Name (2 letter code) [AU]:IN
+State or Province Name (full name) [Some-State]:Orissa
+Locality Name (eg, city) []:Bhubaneshwar
+Organization Name (eg, company) [Internet Widgits Pty Ltd]:Mindfire Solutions
+Organizational Unit Name (eg, section) []:NodeJS
+Common Name (e.g. server FQDN or YOUR name) []:localhost
+Email Address []:rajkumararisetty1993@gmail.com
