@@ -2,3 +2,4 @@
 .data/
 https/cert.pem
 https/key.pem
+lib/config.js
