@@ -1,5 +1,6 @@
 .idea/
 .data/
+.logs/
 https/cert.pem
 https/key.pem
 lib/config.js
